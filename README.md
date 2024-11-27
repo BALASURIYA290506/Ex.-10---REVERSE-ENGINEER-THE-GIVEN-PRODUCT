@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![Duster Model](https://github.com/user-attachments/assets/6add9525-5633-422b-98f8-3956f48628b9)
 
 
-### Name:
-### Register Number:
+### Name: M BALASURIYA
+### Register Number: 24900432
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
